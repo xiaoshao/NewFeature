@@ -1,3 +1,4 @@
 gradle
 NewFeature.*
 .gradle
+out
